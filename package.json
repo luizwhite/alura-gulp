@@ -1,7 +1,7 @@
 {
   "name": "alura-gulp",
   "version": "1.0.0",
-  "description": "Atualização do projeto de Gulp da Alura, para sua versão [4.0.2]",
+  "description": "Atualização do projeto de **Gulp** da Alura, utilizando o **Gulp** versão **[4.0.2]**",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
